@@ -1,0 +1,7 @@
+.sonarlint
+.vscode
+.env
+Dockerfile
+__pycache__/
+*.pyc
+cicd.yaml
